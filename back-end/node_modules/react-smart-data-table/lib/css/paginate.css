@@ -1,0 +1,15 @@
+.rsdt.rsdt-paginate {
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+.rsdt.rsdt-paginate.first,
+.rsdt.rsdt-paginate.last,
+.rsdt.rsdt-paginate.previous,
+.rsdt.rsdt-paginate.next,
+.rsdt.rsdt-paginate.link,
+.rsdt.rsdt-paginate.current {
+  padding: 5px;
+}
